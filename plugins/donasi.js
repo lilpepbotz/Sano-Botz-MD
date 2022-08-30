@@ -4,26 +4,26 @@ let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fe
 
 *𝐇𝐚𝐥𝐨 𝐁𝐚𝐧𝐡 𝐃𝐨𝐧𝐚𝐬𝐢 𝐲𝐮𝐤 𝐁𝐢𝐚𝐫 𝐁𝐨𝐭 𝐀𝐤𝐭𝐢𝐟 𝐒𝐞𝐥𝐚𝐥𝐮👋*
 ╔═══════════════════
-║ _*DONASI UNTUK*_  𝐉𝐚𝐫𝐨𝐭 ×͜×
+║ _*DONASI UNTUK*_  Alwi ×͜×
 ╠═══════════════════
 ║          ❉ 〔 *𝗗𝗢𝗡𝗔𝗦𝗜* 〕 ❉
 ║➸ *DANA* : 
-║➸ 085850539404
+║➸ 6282239202895
 ║➸ *PULSA
-║➸ 085850539404
+║➸ 6282239202895
 ║➸ *Saweria*:
-║ https://saweria.co/jarotoffc
+║ https://saweria.co/KimchBotz
 ╰═══════════════════
 ╔════════════════════
 ║ *Donasi Via Ikuti Sosial media*
 ╠════════════════════
-║     ❉ 〔 𝐒𝐨𝐬𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐉𝐚𝐫𝐨𝐭 〕 ❉
+║     ❉ 〔 Sosial Media Alwi 〕 ❉
 ║➸ *Instasgram*
-║ https://instagram.com/Jarotr_
+║ https://instagram.com/kimhcibotz
 ║➸ *Youtube*
-║ https://tinyurl.com/2qsejxnw
+║ kosong 
 ║➸ *Github*
-║ https://github.com/Alpiii22 
+║ https://github.com/lilpepbotz 
 ╚════════════════════
 
 `.trim(), wm, 'Owner', '.owner', 'Menu', '.menu')
