@@ -7,13 +7,13 @@ global.owner = [
   ['6282239202895', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
-global.fotonya2 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //gw lupa nih foto apa aja:v
-global.fotonya3 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
+global.fotonya1 = 'https://telegra.ph/file/24ef31ec559b99b3009be.jpg' //ini kalo mau di ganti silahkan ganti aja
+global.fotonya2 = 'https://telegra.ph/file/24ef31ec559b99b3009be.jpg' //gw lupa nih foto apa aja:v
+global.fotonya3 = 'https://telegra.ph/file/24ef31ec559b99b3009be.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/24ef31ec559b99b3009be.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/24ef31ec559b99b3009be.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/97dce91d41f0e219d81cc.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/24ef31ec559b99b3009be.jpg'
 global.instagram = 'https://instagram.com/khimchibotz'
 global.dana = '6282239202895'
 global.saweria = 'https://saweria.co/khimchibotz'
@@ -74,7 +74,7 @@ global.packname = sticker_name
 global.author = sticker_author
 global.wm = '©SANO-MD'
 
-global.anu = 'https://telegra.ph/file/054b6fe59958df5ad6b1f.jpg'
+global.anu = 'https://telegra.ph/file/24ef31ec559b99b3009be.jpg'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
