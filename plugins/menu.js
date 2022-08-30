@@ -38,25 +38,25 @@ const defaultMenu = {
 ┏─────────────────⬣
 ┆ 𝑯𝒂𝒊, %ucapan %name!👋
 ┗┬──────────────┈ ⳹
-┏┆⬡ *Limit:* : %limit
-┆┆⬡ *Level:* : %level
-┆┆⬡ *XP:* : %exp
+┏┆❀ *Limit:* : %limit
+┆┆❀ *Level:* : %level
+┆┆❀ *XP:* : %exp
 ┗┬──────────────┈ ⳹
 ┏┤   *𝐊𝐚𝐥𝐞𝐧𝐝𝐞𝐫*
 ┆┗──────────────┈ ⳹
-┆⬡ *Hari:* : %week
-┆⬡ *Tanggal:* : %date
-┆⬡ *Waktu Wib* : %wib 
-┆⬡ *Waktu Wita* : %wita 
-┆⬡ *Waktu Wit* : %wit 
+┆❀ *Hari:* : %week
+┆❀ *Tanggal:* : %date
+┆❀ *Waktu Wib* : %wib 
+┆❀ *Waktu Wita* : %wita 
+┆❀ *Waktu Wit* : %wit 
 ┗┬──────────────┈ ⳹
 ┏┤ *𝐁𝐨𝐭 𝐈𝐧𝐟𝐨*
 ┆┗──────────────┈ ⳹
-┆⬡ *Limit* : Ⓛ 
-┆⬡ *Premium* : Ⓟ
-┆⬡ *Uptime:* : %uptime (%muptime)
-┆⬡ *Run Bot* : rdp
-┆⬡ *Ig Owner* : instagram.com/kimhcibotz
+┆❀ *Limit* : Ⓛ 
+┆❀ *Premium* : Ⓟ
+┆❀ *Uptime:* : %uptime (%muptime)
+┆❀ *Run Bot* : rdp
+┆❀ *Ig Owner* : instagram.com/kimhcibotz
 ┗─────────────────⬣
 %readmore`.trimStart(),
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
@@ -170,7 +170,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       ['Sewa Bot🌟', '/sewa'],
       ['Owner🌟', '/owner']
     ], m)*/
-    let url = `https://telegra.ph/file/24ef31ec559b99b3009be.jpg`.trim()
+    let url = `https://telegra.ph/file/054b6fe59958df5ad6b1f.jpg`.trim()
     let res = await fetch(url)
     let buffer = await res.buffer()
     let message = await prepareWAMessageMedia({ image: buffer }, { upload: conn.waUploadToServer })
