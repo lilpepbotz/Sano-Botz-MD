@@ -55,13 +55,13 @@ const defaultMenu = {
 ┆♠︎ *Limit* : Ⓛ 
 ┆♠︎ *Premium* : Ⓟ
 ┆♠︎ *Uptime:* : %uptime (%muptime)
-┆♠︎ *Run Bot* : heroku
+┆♠︎ *Run Bot* : rdp
 ┗─────────────────⬣
 %readmore`.trimStart(),
   header: '╔═❖〔 %category 〕❖════╗\n┃',
   body: '┃➺ %cmd %islimit %isPremium',
   footer: '┃\n╚══════════❖\n', 
-  after: `*Made by ♡*
+  after: `*Made by Alwi*
 *%npmname* | %version
 ${'```%npmdesc```'}
 `,
@@ -166,7 +166,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    conn.sendButton(m.chat, text.trim(), 'Made with ♡ by ࿐ᴹʳ 𝐉𝐚𝐫𝐨𝐭 𝐎𝐟𝐟𝐜 ࿐', null, [['Donasi', '.donasi'],['Owner', '.owner']], m)
+    conn.sendButton(m.chat, text.trim(), 'Made with ♡ by ࿐ᴹʳ Alwi ࿐', null, [['Donasi', '.donasi'],['Owner', '.owner']], m)
     /*conn.sendHydrated(m.chat, text.trim(), 'Ⓟ premium | Ⓛ limit', null, 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ', 'Website', '', '', [
       ['Donate', '/donasi'],
       ['Sewa Bot', '/sewa'],

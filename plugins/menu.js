@@ -55,14 +55,14 @@ const defaultMenu = {
 ┆⬡ *Limit* : Ⓛ 
 ┆⬡ *Premium* : Ⓟ
 ┆⬡ *Uptime:* : %uptime (%muptime)
-┆⬡ *Run Bot* : Okteto/heroku
-┆⬡ *Ig Owner* : instagram.com/oscarbotz_
+┆⬡ *Run Bot* : rdp
+┆⬡ *Ig Owner* : instagram.com/kimhcibotz
 ┗─────────────────⬣
 %readmore`.trimStart(),
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  after: `*Made by ♡*
+  after: `*Made by Alwi*
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
@@ -179,17 +179,17 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: text.trim(),
-                            hydratedFooterText:'                『 𝑱𝑨𝑹𝑶𝑻 𝑶𝑭𝑭𝑪 』',
+                            hydratedFooterText:'                『 SANO BOTZ 』',
                             hydratedButtons: [{
                               urlButton: {
                                     displayText: '𝙂𝙧𝙤𝙪𝙥 🌏',
-                                    url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+                                    url: 'https://chat.whatsapp.com/Fapstp9Z1xQL3NpYPdLpnH'
                                 }
                                 
                             }, {
                               urlButton: {
-                                    displayText: '𝙔𝙤𝙪𝙏𝙪𝙗𝙚 📺',
-                                    url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+                                    displayText: '𝙂𝙧𝙤𝙪𝙥2 📺',
+                                    url: 'https://chat.whatsapp.com/Fapstp9Z1xQL3NpYPdLpnH'
                                 }
                             }, {
                                 quickReplyButton: {
