@@ -78,6 +78,9 @@ global.anu = 'https://telegra.ph/file/24ef31ec559b99b3009be.jpg'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
+global.vn = './sound/menu.mp3'
+
+
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
